@@ -42,3 +42,4 @@
    - `git remote add origin <link>`
 5. Maak een main branch
    - `git branch -M main`
+6. Voeg collaborators toe op github settings

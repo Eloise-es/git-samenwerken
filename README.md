@@ -28,7 +28,7 @@
 12. pull!
     - `git pull`
 
-#### Any time:
+### Any time:
 
 - `git status`
 

@@ -43,3 +43,12 @@
 5. Maak een main branch
    - `git branch -M main`
 6. Voeg collaborators toe op github settings
+
+### Pull Request
+
+1. `git checkout main`
+2. `git pull`
+3. `git checkout featureName`
+4. `git merge main` - combinatie van main + eigen werk
+5. `git push`
+6. Pull Request op github.com

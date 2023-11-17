@@ -31,3 +31,14 @@
 #### Any time:
 
 - `git status`
+
+### Begin van een project (1 persoon)
+
+1. Maak een map
+2. Maak er een repository van
+   - `git init`
+3. Maak een repository op github.com
+4. Verbinding maken met de github repository
+   - `git remote add origin <link>`
+5. Maak een main branch
+   - `git branch -M main`
